@@ -1,0 +1,71 @@
+<style>
+body {
+	width: 70%; 
+	margin: auto;
+}
+
+h1 {
+  font-family: Arial;
+  color: green;
+}
+
+h2 {
+  font-family: Arial;
+  font-size: 120%;
+
+}
+
+a:link {
+  color: gray;
+}
+
+a:visited {
+  color: green;
+}
+
+a:hover {
+  color: rebeccapurple;
+}
+
+table, td, th {
+  border: 1px solid black;
+  text-align: left;
+}
+
+p {
+  font-size: 70%;
+  font-family: Arial;
+  color: black;
+}
+
+#contents {
+	float: right;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  font-family: sans-serif;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to white on hover */
+li a:hover {
+  background-color: #fff;
+}
+
+<style>
