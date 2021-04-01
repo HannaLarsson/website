@@ -166,7 +166,7 @@ function create_products_array($products_array){
         }
         else {
             $price = "NULL";
-            $VAT = $VAT = $product['pris'] * $product['momssats']/100;
+            $VAT = $product['pris'] * $product['momssats']/100;
         }
 
         if ($has_balance){
